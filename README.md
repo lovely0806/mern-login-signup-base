@@ -1,1 +1,1 @@
-# mern-login-signup-base
+# MERN Stack Scaffold with typescript
